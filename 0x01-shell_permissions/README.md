@@ -1,0 +1,1 @@
+This folder contains bash scripts for shell permissions and files manipulation
